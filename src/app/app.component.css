@@ -1,6 +1,7 @@
 /* css for app component only */
 
 /*see styles.css at root of project for global css*/
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300;400&display=swap");
 
 .logo {
   display: block;
@@ -47,6 +48,7 @@
   text-align: center;
   color: #c1c1c1;
   font-size: 70px;
+  font-family: "Alegreya Sans SC", sans-serif;
 }
 ul {
   /* remove default padding and margin from ul*/
